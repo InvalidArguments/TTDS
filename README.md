@@ -8,3 +8,7 @@ possibilities for future development.
 
 Still don't know what language we'll be using, but I'll be moderating this repository for updates and
 stuff. Can't wait to start collaborating with you guys!
+
+Game Concepts:
+1) Teletubies: Dating Sim, Fighting Game, as long as it has
+   something to do with teletubies I'm good.
