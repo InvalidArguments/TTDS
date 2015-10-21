@@ -21,7 +21,7 @@ put up some more instructions in the future,
 
 #Game Concepts
 
-   1) Teletubies: Dating Sim, Fighting Game, as long as it has something to do with teletubies.
+   Teletubies: Dating Sim, Fighting Game, as long as it has something to do with teletubies.
 
 #Names
 
