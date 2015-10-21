@@ -19,11 +19,11 @@ PS: I am still learning how git hub works, so it's gonna take a bit to start act
 going. For now, just learn how to commit and do pull requests, since that's all you'll need to start. I'll
 put up some more instructions in the future,
 
-Game Concepts:
+#Game Concepts
 
    1) Teletubies: Dating Sim, Fighting Game, as long as it has something to do with teletubies.
 
-Names:
+#Names
 
    InvalidArguments - Rob Rose
    
