@@ -12,10 +12,8 @@ what you can do. Just see my name for an example.
 
 Still don't know what language we'll be using, but I'll be moderating this repository for updates and
 stuff. Can't wait to start collaborating with you guys, this'll be a fun experience. 
-
-   From, Rob.
  
-PS: I am still learning how git hub works, so it's gonna take a bit to start actually getting this project
+I am still learning how git hub works, so it's gonna take a bit to start actually getting this project
 going. For now, just learn how to commit and do pull requests, since that's all you'll need to start. I'll
 put up some more instructions in the future.
 
