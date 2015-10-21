@@ -2,6 +2,10 @@ This is where we will store all the images for the game. If you're an artist
 for the game, this is where you'll be submitting all your files for the game,
 and where you'll be primarily working. 
 
+P.S. I don't know how to upload images, so we can't make images yet. For now,
+I may just make a Deviant Art or a Tumblr or something to post the images to, but I don't know
+yet.
+
 Folder Guides:
 
   concept: Concept images used to get a feel for an artstyle/character design.
