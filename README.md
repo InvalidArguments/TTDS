@@ -3,10 +3,10 @@ Hey, so I created this GitHub account, and now I'm officially starting this repo
 project for a collaborative game thing with you guys!
 
 Still need a concept, so I'm going to leave this README.md file up. List some game concepts or design
-concepts in the ideas.md file, and I can narrow down the options to some more realistic
+concepts in the IDEAS.md file, and I can narrow down the options to some more realistic
 possibilities for future development.
 
-Also, add your Github Username and who you are under the contributors.md file. I'll start out. This is just so
+Also, add your Github Username and who you are under the CONTRIBUTORS.md file. I'll start out. This is just so
 I know exactly is contributing with the pull requests and stuff. Also, list what you are good at and
 what you can do. Just see my name for an example.
 
@@ -22,4 +22,8 @@ put up some more instructions in the future.
 #Description
 
 TTDS was an idea a few buddies and I came up with messing around in the dorm common room. The idea originally 
-was to make a Teletubby dating sim, thus the name TTDS
+was to make a Teletubby dating sim, thus the name TTDS. Now, I'm not exactly sure what it will become, though
+I really do want to do that at some point.
+
+This README.md file will probably be expanded upon in the future once all of us get our shit together, but for
+now it's just going to be this.
